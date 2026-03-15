@@ -9,6 +9,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/AnalyticsDashboard.png" width="900">
+</p>
+
+---
+
 # Overview
 
 This project demonstrates the development of a **full stack analytics dashboard** using **Spring Boot (Java) and React**.
