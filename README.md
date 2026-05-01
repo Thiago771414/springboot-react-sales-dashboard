@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/AnalyticsDashboard.png" width="900">
-</p>
-
----
-
 # Overview
 
 This project demonstrates the development of a **full stack analytics dashboard** using **Spring Boot (Java) and React**.
@@ -64,12 +58,12 @@ The system uses a **REST API architecture**, where the React frontend consumes e
 ---
 
 # Application Interface
+## Demo
+### Sales Dashboard
 
-## Sales Dashboard
+[![Assista ao vídeo](https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS3.jpg)](https://www.linkedin.com/posts/thiago-lima-2a5896166_java-springboot-bootstrap-activity-6797325520271925248-NrG3?utm_source=share&utm_medium=member_desktop&rcm=ACoAACekQx0BRU42DiOxF8SrppfeuTwD5GESrF4)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thiago771414/imagensProjetos/main/slices/mobile/SDS3.jpg" width="900">
-</p>
+*Click on the image above to watch the demonstration*
 
 ---
 
